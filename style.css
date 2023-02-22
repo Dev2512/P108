@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header_div
+{
+    background-color: darkorange;
+    color: white;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.main_div button
+{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top:30px;
+    width: 100px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer
+{
+    background-color: orange;
+    width: 100%;
+    font-size: 15px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px darkgrey;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
